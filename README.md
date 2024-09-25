@@ -56,7 +56,7 @@ Intergrate the feedback and and iterate.
 Initiate long-term study on safety trends.
 
 ### Interactive Dashboard
-
+Dashboards are interactive visualizations that tend to explain or analyze data to show trends in business. They are essential tools because they improve analyzed data, which is key to making an informed decision. Here is a link to tableau dashboard about aviation accidents: https://public.tableau.com/app/profile/margret.nyairo/viz/ProjectPhase1Dashboard_17273026172260/SummaryofAircraftAccidents?publish=yes.
 
 ### Summary
-
+This dataset comprises records of aviation accidents and incidents from various states in the USA, detailing factors such as accident severity, weather conditions, and aircraft information. It provides crucial insights into aviation safety, allowing analysts to investigate correlations between weather, aircraft types, and accident outcomes. These insights will enhance stakeholders to implement necessary precautions for future trends.
